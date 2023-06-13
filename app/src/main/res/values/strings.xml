@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="reg">Регистрация</string>
+    <string name="enterLogAndPass">Введите ваш логин и пароль</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="enter">ВОЙТИ</string>
+    <string name="backToMainMenu">на главное меню</string>
+    <string name="creditCalc">Кредитный калькулятор</string>
+    <string name="howMuchDoYouNeed">Сколько вам нужно</string>
+    <string name="from30k">от 30 000</string>
+    <string name="to100k">до 100 000</string>
+    <string name="enterCredit">введите срок кредита</string>
+    <string name="count">РАССЧИТАТЬ</string>
+    <string name="everyMonth">ежемесячный платёж</string>
+    <string name="howLongCredit">срок кредита</string>
+    <string name="sumCredit">Сумма кредита</string>
+</resources>
